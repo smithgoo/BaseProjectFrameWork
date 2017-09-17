@@ -1,0 +1,40 @@
+//
+//  Contents.h
+//  BaiJIForWorkerMen
+//
+//  Created by cnsunrun on 17/3/30.
+//  Copyright © 2017年 王朋. All rights reserved.
+//
+
+#ifndef Contents_h
+#define Contents_h
+
+
+#endif /* Contents_h */
+
+#pragma mark 高德地图
+#define App_map_key     @"77dbe157da88d06b38e5659b53488ef8"
+
+
+//支付宝支付
+#define APP_Scheme [[NSBundle mainBundle] bundleIdentifier]
+
+#define App_AliPayAppId @"2017043007064416"
+//收款支付宝账号
+//#define SellerID       @"1146270114@qq.com"
+
+#define APP_ALiRsaPrivateKeyRSA  @"MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBAIxxk/xugsUvfJdpWgZ1zyoNGXL7lQd+dKJLnngs+3BGTKT9/d8QH5QazLjcDpQE6dOE06U8Fpgh9ch2q7OZa+EmKOztm3tah6MqbSm8K+yelHvoSlDK5QE3CK85sK8hNtBdSVjslpvWO2DEAi30BdHFQ0vu9Iu8auQuUJmuVK/nAgMBAAECgYBY3VUCGPrtwgpX0/V+uPSIaxl7Q+0cfMtYFfkDmZLPi+vbSktk5VLV5885+SPQTPuXNyikGM1DHdnjKhOi5KT5NZ9pC2IMlry6+fPhRoFJA3MfumCkCrb3l+zA19cwGt8ego+jaETWSE4i49Sqp1WfGLWU/3S3+gqmTwYUGIvpYQJBAMJ2XZ9X5gRWMGe6VkRBew/UtgsVOezM97q8dO6md3b69yxgR40u5YiyT0gjK1s74azhFLHe12VIyXlWJ7Qw6RsCQQC44xdZ2dhNH1ZSTLjiG5ZMH+LSEXdM80D6rZ11ouyCW7HeRZub2pip0DdHIMdn6w/WRjortuif6gXOQyYmr+0lAkBxddp+RCzizt8DRoda39HLlNJ6ePIJJjZMb/TR4bLGavuYmrxktb4bGd6EOnDrlG7CDbmjZl/KqsNS1l/oFLmNAkAbde9T8x1DZzIlCywyuTI7oEjKNrnnfgHaucq3XDmQqxniD6irH26pWjm7oMy9TJaPluKw93vZtKKkHikeeebZAkA8MDCxm13T8zex3lFha6FVos6WhAfE5f2SxgY70TeLtl1qULZre6uA0gIpSu1Lg1Y8cOWGIxPQ9FdVIP8+Vq7T"
+
+#define APP_ALiRsaPrivateKeyRSA2 @"MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDl1qNZXNXAreeRmPIGJZ4/VG7WqcBDkAistc20KiDtNzmWBhopWE95ACDhQvhTHLuiu0F8jkaDtux/mV6s17gsCR3w8kUL4+or+JNnAajJUspN+H4B4J11ftfKWncT/DIaFcwlrwWEXJDAAySfxH39mMA6Z7UXN420bDkszpUSmx4yZ9k4aOC6gCRoNC47NoWVGNJpNPQ2CFoQDt+SQQpZiXuspo/nx+aJsRnI1lmjuRbVNoejUBpFKMtHkRldokkrm8jzjnR09yFWSf4TJelqAJVj/xkYHIeR9rOEWwjuuAjWekhEDv9s1uNGDCu88/TkK6drtmzE0JRTApXOWHHzAgMBAAECggEAWyA+o6+rEDnjFlcNnmJL29AeIf4rvJ3e0ptCc6xAYc0Dh/fjZ4EcAV2Lq8RhsJIz0tFrpXbDfnWITw7/+oeM/eifdmiX957luYlU6AJAaZHppABh9VyZEXy5EgHMNKBJPQ5nYomCJniM65RTcQT27xUhIgb8RbhA9sfx41IEyNr3HQYkCIGuc8SaU0F2ehGJfzM0x8/IN+jmrL/iuQj/DH6G40hct0B+mfChmNpc+CyAqXub1ERJNnES9jCzq7AwzA338QrzBo5WmfZl6rckI+SqVKNxafGl0o8C57dNCpzLyiRsh//XJSRQHQyyLqzeUsci1QuA5nmIhHXCuBEQAQKBgQD8iRaNvoF5HCipf+TV9D5BzSEqapZ6huD2GBqkx+mFH6ezynAR/8hqwELN4XMG+ZmanvmPFcEIkSwUtTZ70XqyQQ/U4k8DszvifNHH69MIHm2wZqf12A52kf0G+VgUukYhIOg1qw6JkRE9yboISoz8o/76MnBO75+Ojf3fTbUOYwKBgQDo/dZUKNKvmq+d+5U9NTxUAqPpnrtSg8sHsjbqJpnOKEArzoQMaZoQ9v68C//MLS6wVIp5qFsTBB9M4mWNgRUF7bYpCun2Qlk5aHl5S5vgZfhFh0sZB5deg95ZZyCzPX2qKb7u2YKs+1gJunXt5XxHs9M9+ICKbJON/IXnO7bbMQKBgQD1PritbM3V7Le8bByyfyCazHgh9iMu2J/NvnjZf99TTfuSCc2uXSWoLhByWjhYFLvMQgj/oNO22yzg617+/d9XDwIt7p1nbX+Bo1AjA+0MXGiPwBHrGShqk7oTNMEKWB/U+l0oCXfztvL0e1xzwtqKW0U6exNARUtBqLlcS93CGwKBgC5aAX+wt2l0DqgRWvlYU+4qsE1T5NRfn86iJ8ahc0vOOiX86cxGXf4uBTOH95W5D2bJCtt1INlBorB7AdUK7xHE3s5/e1ggjvuayz/USOh1oNTEO655EiYdeeizWZAPFab6sx91akfboQIedEOlufnRzp6vh3MCcsB2knUULiahAoGBAI2F75/M39VyphpTnReHv/SaHkZHU9rU/APeH9VeekGi3txT9apJjpUYQ0n+G49/XqFrMgepRCH93slvhkK3HD+Jhu6z0lznCA4VFo0c2dvguhM/+oaLDU/ASOt4Q17Kz1t5vOBRMmh40C1mzT+KiUP7QVR3D2xj4fLQOFvtGgcT"
+
+#define APP_AliPayCallback_url URLString(@"User/Order/Callback/get_a_new_notify")
+
+//微信支付
+#define WX_AppID @"wx0391fc671875527d"//微信开放平台审核通过的应用APPID
+#define MCH_ID @"1462215002"//微信支付分配的商户号
+#define WX_partnerKey @"welcombaijiwangbaijiwang20170420" //商户密钥key
+#define WX_nonceStr @"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"//随机字符串
+//"prepayId": "wx20160601113412a39d0f4d700072397236",//预支付交易会话标识
+//"sign":"E0A8028B79F4E64885B9D930E6FD88E2" //sign，这个是签名，但是很有可能这个签名是有问题的，我用不了
+
+#define APP_WXCallback_url @"http://test.cnsunrun.com/baiji_app/Api/Pay/callback/weixin_callback"

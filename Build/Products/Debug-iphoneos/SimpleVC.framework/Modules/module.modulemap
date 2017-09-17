@@ -1,0 +1,6 @@
+framework module SimpleVC {
+  umbrella header "SimpleVC.h"
+
+  export *
+  module * { export * }
+}

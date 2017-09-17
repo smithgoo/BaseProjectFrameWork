@@ -1,0 +1,185 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.0.5)
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.6.0)
+  - Bugly (2.4.8)
+  - CardIO (5.4.1)
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - DACircularProgress (2.3.1)
+  - DZNEmptyDataSet (1.8.1)
+  - FSMediaPicker (0.0.2)
+  - HMSegmentedControl (1.5.3)
+  - IQKeyboardManager (4.0.8)
+  - JCore (1.1.1)
+  - JKCountDownButton (1.0.0)
+  - JPush (3.0.2):
+    - JCore (~> 1.1.1)
+  - JYRouter (1.0):
+    - YYModel
+  - LazyScroll (0.0.2)
+  - LinqToObjectiveC (2.1.0)
+  - Masonry (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MMPlaceHolder (1.9)
+  - MMPopupView (1.3):
+    - Masonry
+  - MOBFoundation (2.2.19)
+  - MWPhotoBrowser (2.1.2):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - NYXImagesKit (2.3)
+  - ProtocolBuffers (1.9.9.2)
+  - PureLayout (3.0.2)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - RHSocketKit (2.1.8):
+    - RHSocketKit/Core (= 2.1.8)
+    - RHSocketKit/Extend (= 2.1.8)
+  - RHSocketKit/Core (2.1.8):
+    - CocoaAsyncSocket (~> 7.4.3)
+    - ProtocolBuffers (~> 1.9.9.2)
+  - RHSocketKit/Extend (2.1.8):
+    - RHSocketKit/Core
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SecureUDID (1.1)
+  - ShareSDK3 (3.6.3):
+    - MOBFoundation
+    - ShareSDK3/ShareSDK (= 3.6.3)
+  - ShareSDK3/ShareSDK (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKUI (3.6.3):
+    - MOBFoundation
+  - SVProgressHUD (2.1.2)
+  - Tangram (1.0.3):
+    - LazyScroll (~> 0.0.2)
+    - SDWebImage (~> 3.7)
+  - UITableView+FDTemplateLayoutCell (1.5.beta)
+  - VGParallaxHeader (0.0.6):
+    - PureLayout
+  - ViewUtils (1.1.2)
+  - YLGIFImage (0.11)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.0.3)
+  - AFNetworking (~> 3.1.0)
+  - AliyunOSSiOS (~> 2.6.0)
+  - Bugly
+  - CardIO
+  - DZNEmptyDataSet
+  - FSMediaPicker
+  - HMSegmentedControl
+  - IQKeyboardManager
+  - JKCountDownButton (~> 1.0.0)
+  - JPush (~> 3.0.2)
+  - JYRouter
+  - LinqToObjectiveC
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - MMPlaceHolder
+  - MMPopupView (= 1.3)
+  - MOBFoundation
+  - MWPhotoBrowser
+  - NYXImagesKit (= 2.3)
+  - ReactiveCocoa (~> 2.5)
+  - RHSocketKit (~> 2.1.0)
+  - SDCycleScrollView (~> 1.65)
+  - SDWebImage (~> 3.7.3)
+  - SecureUDID
+  - ShareSDK3
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - SVProgressHUD
+  - Tangram
+  - UITableView+FDTemplateLayoutCell (~> 1.4.beta)
+  - VGParallaxHeader
+  - ViewUtils
+  - YLGIFImage (~> 0.11)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 8312778b6815578e6a86d630fbcf31dc94c534e7
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AliyunOSSiOS: '058b038cc82000dadb8f8e3893a97243124f2898'
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FSMediaPicker: 89c5fe9894a288db7c87c255bdb7856e33dc4073
+  HMSegmentedControl: 7c6145afb50f26cec5f3243082f6f12b9f41318f
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  JCore: 2210a789c8efb7dc2a46b1c24d2209b995b18ad2
+  JKCountDownButton: 7b30571da56af2e52272a6974413f4a0c83a5e94
+  JPush: 01a693fafe51b93eafc2e368bbc7a7cc07e12ce4
+  JYRouter: 89d9aa4b297f53d20d9bb6357d9d0776159dfe68
+  LazyScroll: 614022689b8e3b93c7bbe268c1a47b76e4265941
+  LinqToObjectiveC: f0e40c137a458b6b9725c4c7b6a575c0c72e3aec
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MMPlaceHolder: 40212b9dfe8760134b1b2fce3232f0d46200178f
+  MMPopupView: 25633125d678637c28afd5d9e7fc7dd2db2903da
+  MOBFoundation: e962b2aee79e2b8f626e2d30c2f23e9f13e5331e
+  MWPhotoBrowser: 5836d7aa041dc05a13de380c246826578adc5ea5
+  NYXImagesKit: 8163e3335a40eaa173ca5bbbf81fafb57d3947eb
+  ProtocolBuffers: 7111461618460961e6b7469177ec45ee551b4f0e
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RHSocketKit: ab3893b41e38d03f62df2ebddf078ff991812aea
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SecureUDID: 82a9df1f3baa7a0964600ac93a81273121775b17
+  ShareSDK3: d271520113160eb24b31cd642b45b38fcd592d93
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  Tangram: 3bae7b9dc29816221e2a27f76ca86b8afa95564b
+  UITableView+FDTemplateLayoutCell: 02b508ab1cb4cea16a8c17ac83d2cd1fd72124f9
+  VGParallaxHeader: 1213aba58c9b0aea84f9e81ad526fde57aa4fe48
+  ViewUtils: 68e42c708a4b3912e39691cef5080282dc5013fb
+  YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 53c67e14ce681834e10eafaf8773e13a1c46afc3
+
+COCOAPODS: 1.2.1

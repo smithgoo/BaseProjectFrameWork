@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/YYTextView.m \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/Target\ Support\ Files/YYKit/YYKit-prefix.pch \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/YYTextView.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/YYTextParser.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextLayout.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextDebugOption.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextLine.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/YYTextAttribute.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextInput.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Base/YYKitMacro.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextContainerView.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextSelectionView.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextMagnifier.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextEffectWindow.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/Component/YYTextKeyboardManager.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/YYTextUtilities.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Base/Quartz/YYCGUtilities.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Utility/YYTransaction.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Utility/YYWeakProxy.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Base/UIKit/UIView+YYAdd.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/NSAttributedString+YYText.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/YYTextRubyAnnotation.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Text/String/UIPasteboard+YYText.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Base/UIKit/UIDevice+YYAdd.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Base/UIKit/UIApplication+YYAdd.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Image/YYImage.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Image/YYAnimatedImageView.h \
+  /Users/wangpeng/jichuxiangmukuangjia/Pods/YYKit/YYKit/Image/YYImageCoder.h

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SimpleVC.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SimpleVC-Swift.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SimpleVC.framework/Headers/SimpleVC-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SimpleVC.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/SimpleVC/SimpleVC/SimpleVC.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SimpleVC.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Build/Intermediates/SimpleVC.build/Debug-iphoneos/SimpleVC.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

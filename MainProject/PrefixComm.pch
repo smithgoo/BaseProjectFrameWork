@@ -1,0 +1,82 @@
+//
+//  PrefixComm.pch
+//  MainProject
+//
+//  Created by 王朋 on 2017/4/19.
+//  Copyright © 2017年 王朋. All rights reserved.
+//
+
+#ifndef PrefixComm_pch
+#define PrefixComm_pch
+#ifdef __OBJC__
+#import <SDCycleScrollView.h>
+#import "ViewUtils.h"
+#import "SVProgressHUD.h"
+#import "IQKeyboardManager.h"
+#import "IQUIView+IQKeyboardToolbar.h"
+#import "IQTextView.h"
+#import "IQUITextFieldView+Additions.h"
+#import "IQKeyboardReturnKeyHandler.h"
+#import "SecureUDID.h"
+#import "MJRefresh.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+#import "FSMediaPicker.h"
+#import "NSArray+LinqExtensions.h"
+#import "NSDictionary+LinqExtensions.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "MWPhotoBrowser.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "ActionSheetPicker.h"
+#import "UIScrollView+VGParallaxHeader.h"
+#import "UITableView+FDTemplateLayoutCell.h"
+#import "MMAlertView.h"
+#import "MMPopupItem.h"
+#import "NYXImagesKit.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+#import "HMSegmentedControl.h"
+#import "ReactiveCocoa.h"
+
+#import "NSObject+custom.h"
+#import "NSString+custom.h"
+#import "NSTimer+custom.h"
+#import "NSNumber+custom.h"
+#import "UIView+custom.h"
+#import "NSDate+custom.h"
+#import "UIView+borders.h"
+#import "UIImage+custom.h"
+#import "UILabel+custom.h"
+#import "BMToast.h"
+#import "BaseInfo.h"
+#import "ConfigInfo.h"
+#import "NetBaseService.h"
+#import "MacroInfo.h"
+#import "ConstInfo.h"
+#import "CCLocationManager.h"
+//Socket 连接
+#import <RHSocketKit/RHSocketService.h>//socket服务相关类
+#import "RHSocketCustom0330Encoder.h"
+#import "RHSocketCustom0330Decoder.h"
+#import "RHSocketCustomRequest.h"
+#import "RHSocketCustomResponse.h"
+
+//显示尺寸的placeholder
+#import "MMPlaceHolder.h"
+
+#import "Contents.h"
+#import "BaijiAliPay.h"
+#import "BaijiWeixinPay.h"
+
+#import "JYRouter.h"
+//倒计时按钮 适用于 注册 和找回密码
+#import "JKCountDownButton.h"
+//阿里云上传
+#import <AliyunOSSiOS/OSSService.h>
+#endif
+// 输出log 在哪一行
+#define NSLog(fmt, ...) NSLog((@"[文件名:%s]\n" "[函数名:%s]\n" "[行号:%d] \n" fmt"\n\n"), [[[NSString stringWithUTF8String:__FILE__] lastPathComponent] UTF8String], __FUNCTION__, __LINE__, ##__VA_ARGS__)
+
+#endif /* PrefixComm_pch */

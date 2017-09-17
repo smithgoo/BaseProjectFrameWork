@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/wangpeng/jichuxiangmukuangjia/RequestLibApi/RequestLibApi/NetBaseService.m \
+  /Users/wangpeng/jichuxiangmukuangjia/RequestLibApi/RequestLibApi/NetBaseService.h \
+  /Users/wangpeng/jichuxiangmukuangjia/RequestLibApi/RequestLibApi/BaseInfo.h \
+  ../Pods/AFNetworking/AFNetworking/AFNetworking.h \
+  ../Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h \
+  ../Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h \
+  ../Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h \
+  ../Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h \
+  ../Pods/AFNetworking/AFNetworking/AFURLSessionManager.h \
+  ../Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h \
+  ../Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h \
+  ../Pods/MJExtension/MJExtension/MJExtensionConst.h \
+  ../Pods/MJExtension/MJExtension/MJProperty.h \
+  ../Pods/MJExtension/MJExtension/MJPropertyType.h \
+  ../Pods/MJExtension/MJExtension/MJPropertyKey.h \
+  /Users/wangpeng/jichuxiangmukuangjia/RequestLibApi/RequestLibApi/RHSocketCustomRequest.h \
+  ../Pods/RHSocketKit/RHSocketKit/Core/Packet/RHSocketPacketContext.h \
+  ../Pods/RHSocketKit/RHSocketKit/Core/Packet/RHSocketPacket.h

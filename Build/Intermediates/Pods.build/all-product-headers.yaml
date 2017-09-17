@@ -1,0 +1,2242 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/AFNetworking",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFAutoPurgingImageCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFImageDownloader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AbstractActionSheetPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/AbstractActionSheetPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetCustomPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetCustomPickerDelegate.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPickerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetDatePicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDatePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetDistancePicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDistancePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetLocalePicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetLocalePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetMultipleStringPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetMultipleStringPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetStringPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetStringPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "DistancePickerView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/DistancePickerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SWActionSheet.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ActionSheetPicker-3.0/Pickers/SWActionSheet.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/AliyunOSSiOS",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AliyunOSSiOS.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/AliyunOSSiOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSBolts.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSBolts.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSCancellationToken.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSCancellationToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSCancellationTokenRegistration.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSCancellationTokenRegistration.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSCancellationTokenSource.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSCancellationTokenSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSClient.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSCompat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSDefine.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSExecutor.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSExecutor.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSHttpdns.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSHttpdns.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSIPv6Adapter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSIPv6/OSSIPv6Adapter.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSIPv6PrefixResolver.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSIPv6/OSSIPv6PrefixResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSLog.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSModel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSNetworking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSReachabilityManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSIPv6/OSSReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSService.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSService.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSTask.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSTaskCompletionSource.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSTask/OSSTaskCompletionSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSUtil.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "OSSXMLDictionary.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/AliyunOSSiOS/AliyunOSSiOS/OSSXMLDictionary.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/CocoaAsyncSocket",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AsyncSocket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/CocoaAsyncSocket/Source/RunLoop/AsyncSocket.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncUdpSocket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/CocoaAsyncSocket/Source/RunLoop/AsyncUdpSocket.h"
+        },
+        {
+          'type': 'file',
+          'name': "GCDAsyncSocket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.h"
+        },
+        {
+          'type': 'file',
+          'name': "GCDAsyncUdpSocket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncUdpSocket.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/DACircularProgress",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DACircularProgressView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DALabeledCircularProgressView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/DZNEmptyDataSet",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UIScrollView+EmptyDataSet.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/DZNEmptyDataSet/Source/UIScrollView+EmptyDataSet.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/FSMediaPicker",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FSMediaPicker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/FSMediaPicker/Pod/Classes/FSMediaPicker.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/HMSegmentedControl",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/HMSegmentedControl/HMSegmentedControl/HMSegmentedControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/IQKeyboardManager",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQBarButtonItem.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstants.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstantsInternal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstantsInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardReturnKeyHandler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardReturnKeyHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQNSArray+Sort.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQNSArray+Sort.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQPreviousNextView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQPreviousNextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTextView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQTextView/IQTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTitleBarButtonItem.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQToolbar.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIScrollView+Additions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIScrollView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUITextFieldView+Additions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUITextFieldView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+Hierarchy.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIView+Hierarchy.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+IQKeyboardToolbar.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIViewController+Additions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIViewController+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIWindow+Hierarchy.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIWindow+Hierarchy.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/JKCountDownButton",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JKCountDownButton.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/JKCountDownButton/JKCountDownButton/JKCountDownButton/JKCountDownButton.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/JYRouter",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JYRouter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/JYRouter/JYRouter/JYRouter.h"
+        },
+        {
+          'type': 'file',
+          'name': "Routable.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/JYRouter/JYRouter/Routable.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/KPengBannerView",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BannerView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/KPengBannerView/BannerView/BannerView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/LazyScroll",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TMMuiLazyScrollView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/LazyScroll/LazyScrollView/TMMuiLazyScrollView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/LinqToObjectiveC",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LinqToObjectiveC.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/LinqToObjectiveC/LinqToObjectiveC.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+LinqExtensions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/LinqToObjectiveC/NSArray+LinqExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+LinqExtensions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/LinqToObjectiveC/NSDictionary+LinqExtensions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/MBProgressHUD",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MBProgressHUD.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MBProgressHUD/MBProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/MJExtension",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJExtension.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtensionConst.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJExtensionConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJFoundation.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJProperty.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyKey.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJPropertyKey.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyType.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/MJPropertyType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJClass.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/NSObject+MJClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJCoding.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/NSObject+MJCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJKeyValue.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJProperty.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/NSObject+MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+MJExtension.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJExtension/MJExtension/NSString+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/MJRefresh",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJRefresh.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoGifFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoNormalFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoStateFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackGifFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackNormalFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackStateFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshComponent.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshConst.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/MJRefreshConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshFooter.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshGifHeader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshHeader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshNormalHeader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshStateHeader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSBundle+MJRefresh.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJExtension.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJRefresh.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MJExtension.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/MMPopupView",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MMAlertView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMAlertView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMPopupCategory.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMPopupCategory.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMPopupDefine.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMPopupDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMPopupItem.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMPopupItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMPopupView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMPopupView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMPopupWindow.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMPopupWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "MMSheetView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MMPopupView/Classes/MMSheetView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/MWPhotoBrowser",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MWCaptionView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWCaptionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWCommon.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWCommon.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWGridCell.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWGridCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWGridViewController.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWGridViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhoto.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWPhoto.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowser.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowser.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowserPrivate.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowserPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWTapDetectingImageView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWTapDetectingView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWZoomingScrollView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/MWZoomingScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MWPhotoBrowser.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/MWPhotoBrowser/Pod/Classes/UIImage+MWPhotoBrowser.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/Masonry",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MASCompositeConstraint.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASCompositeConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint+Private.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASConstraint+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraintMaker.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASConstraintMaker.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASLayoutConstraint.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASUtilities.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewAttribute.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASViewAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewConstraint.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/MASViewConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/Masonry.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/NSArray+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASShorthandAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+MASDebugAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/View+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASShorthandAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/View+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ViewController+MASAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Masonry/Masonry/ViewController+MASAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/NYXImagesKit",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NYXImagesHelper.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Helper/NYXImagesHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NYXImagesKit.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Helper/NYXImagesKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NYXProgressiveImageView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Classes/NYXProgressiveImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Blurring.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Blurring.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Enhancing.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Enhancing.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Filtering.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Filtering.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Masking.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Masking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Reflection.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Reflection.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Resizing.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Resizing.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Rotating.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Rotating.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Saving.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIImage+Saving.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+Screenshot.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIScrollView+Screenshot.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+Screenshot.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/NYXImagesKit/Categories/UIView+Screenshot.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/ProtocolBuffers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AbstractMessage.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/AbstractMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "AbstractMessageBuilder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/AbstractMessageBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bootstrap.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/Bootstrap.h"
+        },
+        {
+          'type': 'file',
+          'name': "CodedInputStream.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/CodedInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "CodedOutputStream.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/CodedOutputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "ConcreteExtensionField.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ConcreteExtensionField.h"
+        },
+        {
+          'type': 'file',
+          'name': "Descriptor.pb.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/Descriptor.pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "ExtendableMessage.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ExtendableMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "ExtendableMessageBuilder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ExtendableMessageBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ExtensionField.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ExtensionField.h"
+        },
+        {
+          'type': 'file',
+          'name': "ExtensionRegistry.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ExtensionRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "Field.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/Field.h"
+        },
+        {
+          'type': 'file',
+          'name': "ForwardDeclarations.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ForwardDeclarations.h"
+        },
+        {
+          'type': 'file',
+          'name': "GeneratedMessage.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/GeneratedMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GeneratedMessageBuilder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/GeneratedMessageBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "Message.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/Message.h"
+        },
+        {
+          'type': 'file',
+          'name': "MessageBuilder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/MessageBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MutableExtensionRegistry.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/MutableExtensionRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "MutableField.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/MutableField.h"
+        },
+        {
+          'type': 'file',
+          'name': "ObjectivecDescriptor.pb.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ObjectivecDescriptor.pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "PBArray.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/PBArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "ProtocolBuffers.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/ProtocolBuffers.h"
+        },
+        {
+          'type': 'file',
+          'name': "RingBuffer.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/RingBuffer.h"
+        },
+        {
+          'type': 'file',
+          'name': "TextFormat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/TextFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UnknownFieldSet.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/UnknownFieldSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "UnknownFieldSetBuilder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/UnknownFieldSetBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "Utilities.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/Utilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "WireFormat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ProtocolBuffers/src/runtime/Classes/WireFormat.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/PureLayout",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ALView+PureLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/ALView+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+PureLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/NSArray+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+PureLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/NSLayoutConstraint+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout+Internal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/PureLayout+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayoutDefines.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/PureLayout/PureLayout/PureLayout/PureLayoutDefines.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/RHSocketKit",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSDictionary+RHSocket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/SerializationCodec/NSDictionary+RHSocket.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHBaseMessage.pb.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Protobuf/RHBaseMessage.pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHProtobufVarint32LengthDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Protobuf/RHProtobufVarint32LengthDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHProtobufVarint32LengthEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Protobuf/RHProtobufVarint32LengthEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketBase64Decoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/Base64Codec/RHSocketBase64Decoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketBase64Encoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/Base64Codec/RHSocketBase64Encoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketChannel+Heartbeat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Channel/RHSocketChannel+Heartbeat.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketChannel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Channel/RHSocketChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketChannelDefault.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Channel/RHSocketChannelDefault.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketCodecProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/RHSocketCodecProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketConfig.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/RHSocketConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketConnection.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Channel/RHSocketConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketConnectionDelegate.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Channel/RHSocketConnectionDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketDelimiterDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Delimiter/RHSocketDelimiterDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketDelimiterEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Delimiter/RHSocketDelimiterEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketException.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Exception/RHSocketException.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketJSONSerializationDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/SerializationCodec/RHSocketJSONSerializationDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketJSONSerializationEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/SerializationCodec/RHSocketJSONSerializationEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketPacket.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Packet/RHSocketPacket.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketPacketContext.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Packet/RHSocketPacketContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketProtobufDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/ProtobufCodec/RHSocketProtobufDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketProtobufEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/ProtobufCodec/RHSocketProtobufEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketService.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/RHSocketService.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketStringDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/StringCodec/RHSocketStringDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketStringEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Extend/Codec/StringCodec/RHSocketStringEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketUtils+Protobuf.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/Protobuf/RHSocketUtils+Protobuf.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketUtils.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Utils/RHSocketUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketVariableLengthDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/VariableLength/RHSocketVariableLengthDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "RHSocketVariableLengthEncoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/RHSocketKit/RHSocketKit/Core/Codec/VariableLength/RHSocketVariableLengthEncoder.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/ReactiveCocoa",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSEnumerator+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSFileHandle+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+RACTypeParsing.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDeallocating.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDescription.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACKVOWrapper.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACLifting.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACPropertySubscribing.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACSelectorSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSOrderedSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACKeyPathUtilities.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSequenceAdditions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSUserDefaults+RACSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACArraySequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBehaviorSubject.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBlockTrampoline.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACChannel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCommand.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCompoundDisposable.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDelegateProxy.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDisposable.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTKeyPathCoding.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTKeyPathCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTRuntimeExtensions.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTScope.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTScope.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEagerSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACErrorSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEvent.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACGroupedSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACImmediateScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACIndexSetSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOChannel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOProxy.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOTrampoline.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection+Private.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACObjCRuntime.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACPassthroughSubscriber.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler+Subclass.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReplaySubject.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReturnSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Private.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Subclass.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScopedDisposable.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSerialDisposable.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal+Operations.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignalSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream+Private.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACStream+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStringSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubject.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber+Private.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptingAssignmentTrampoline.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptionScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTargetQueueScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTestScheduler.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTuple.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTupleSequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnarySequence.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnit.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACValueTransformer.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACmetamacros.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACmetamacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActionSheet+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+RACCommandSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+RACCommandSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionReusableView+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupportPrivate.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDatePicker+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImagePickerController+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+RACCommandSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISegmentedControl+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStepper+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewHeaderFooterView+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+RACSignalSupport.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SDCycleScrollView",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SDCollectionViewCell.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/SDCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDCycleScrollView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/SDCycleScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TAAbstractDotView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAbstractDotView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TAAnimatedDotView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAnimatedDotView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TADotView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TADotView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TAPageControl.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAPageControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+SDExtension.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/UIView+SDExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SDWebImage",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SVProgressHUD",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressAnimatedView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVRadialGradientLayer.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/SecureUDID",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SecureUDID.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/SecureUDID/SecureUDID.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/Tangram",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TangramBus.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramBus.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramBusIndex.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramBusIndex.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramBusIndexClass.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramBusIndexClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramBusIndexTopic.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramBusIndexTopic.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramContext.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDefaultDataSourceHelper.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Helper/TangramDefaultDataSourceHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDefaultElementFactory.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Factory/TangramDefaultElementFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDefaultItemModel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Model/TangramDefaultItemModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDefaultItemModelFactory.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Factory/TangramDefaultItemModelFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDefaultLayoutFactory.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Factory/TangramDefaultLayoutFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDoubleColumnLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramDoubleColumnLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramDragableLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramDragableLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramEasyElementProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramEasyElementProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramElementFactoryProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramElementFactoryProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramElementHeightProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramElementHeightProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramElementReuseIdentifierProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramElementReuseIdentifierProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramEvent.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramEventDispatcher.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramEventDispatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramEventQueue.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/EventBus/TangramEventQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramFixBottomLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramFixBottomLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramFixLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramFixLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramFixTopLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramFixTopLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramFlowLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramItemModelFactoryProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramItemModelFactoryProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramItemModelProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramItemModelProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramLayoutFactoryProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramLayoutFactoryProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramLayoutParseHelper.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Helper/TangramLayoutParseHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramLayoutProtocol.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Protocols/TangramLayoutProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramPageScrollLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramPageScrollLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramQuintetColumnLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramQuintetColumnLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramSafeMethod.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Util/TangramSafeMethod.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramSingleAndDoubleLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramSingleAndDoubleLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramSingleColumnLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramSingleColumnLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramStickyBottomLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramStickyBottomLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramStickyLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramStickyLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramTetradColumnLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramTetradColumnLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramTribleColumnLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramTribleColumnLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Core/TangramView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TangramWaterFlowLayout.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Layouts/TangramWaterFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+Tangram.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/Tangram/Tangram/Source/Helper/UIView+Tangram.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/UITableView+FDTemplateLayoutCell",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UITableView+FDIndexPathHeightCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/UITableView+FDTemplateLayoutCell/Classes/UITableView+FDIndexPathHeightCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+FDKeyedHeightCache.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/UITableView+FDTemplateLayoutCell/Classes/UITableView+FDKeyedHeightCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+FDTemplateLayoutCell.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/UITableView+FDTemplateLayoutCell/Classes/UITableView+FDTemplateLayoutCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+FDTemplateLayoutCellDebug.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/UITableView+FDTemplateLayoutCell/Classes/UITableView+FDTemplateLayoutCellDebug.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/VGParallaxHeader",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UIScrollView+VGParallaxHeader.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/VGParallaxHeader/VGParallaxHeader/UIScrollView+VGParallaxHeader.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/ViewUtils",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ViewUtils.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/ViewUtils/ViewUtils/ViewUtils.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/YLGIFImage",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YLGIFImage.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/YLGIFImage/YLGIFImage/YLGIFImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YLImageView.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/YLGIFImage/YLGIFImage/YLImageView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/YYModel",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSObject+YYModel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/YYModel/YYModel/NSObject+YYModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYClassInfo.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/YYModel/YYModel/YYClassInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel.h",
+          'external-contents': "/Users/wangpeng/jichuxiangmukuangjia/Pods/YYModel/YYModel/YYModel.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangpeng/jichuxiangmukuangjia/Build/Products/Debug-iphoneos/banner",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UIView+FrameExtension.h",
+          'external-contents': "/Users/wangpeng/Desktop/banner/bannerView/UIView+FrameExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "VierticalScrollView.h",
+          'external-contents': "/Users/wangpeng/Desktop/banner/bannerView/VierticalScrollView.h"
+        }
+      ]
+    }
+  ]
+}
