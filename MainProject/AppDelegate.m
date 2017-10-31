@@ -17,9 +17,9 @@
 #import <JPUSHService.h>
 #import "WXApi.h"
 #import <AlipaySDK/AlipaySDK.h>
+#import "SimpleViewController.h"
 @interface AppDelegate ()
 
-//qushi
 @end
 
 @implementation AppDelegate
@@ -40,7 +40,7 @@
     //    } else {
     //
     ////    UINavigationController *nav =[[UINavigationController alloc] initWithRootViewController:[SimpleViewController new]];
-    self.window.rootViewController =[MainTabBarController new];
+    self.window.rootViewController =[SimpleViewController new];
     //    }
     
     return YES;

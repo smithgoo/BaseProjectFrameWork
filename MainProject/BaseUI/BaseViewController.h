@@ -21,4 +21,8 @@
 //类似模态视图的pop
 - (void)popAnimation;
 
+- (void)push:(NSString *)vcName;
+- (void)push:(NSString *)vcName param:(id)param;
+- (void)openWeb:(NSString *)urlStr title:(NSString *)title;
+
  @end

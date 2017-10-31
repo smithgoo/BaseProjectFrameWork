@@ -166,7 +166,24 @@
     return _heightAtIndexPath;
 }
 
- 
+- (void)push:(NSString *)vcName{
+    Class classVC = NSClassFromString(vcName);
+    UIViewController *vc = [classVC new];
+    [self.navigationController pushViewController:vc animated:YES];
+}
+- (void)push:(NSString *)vcName param:(id)param{
+    Class classVC = NSClassFromString(vcName);
+    BaseViewController *vc = [classVC new];
+     [self.navigationController pushViewController:vc animated:YES];
+}
+- (void)openWeb:(NSString *)urlStr title:(NSString *)title{
+//    WebViewController *vc = [[WebViewController alloc]init];
+//    vc.strUrl = urlStr;
+//    vc.title = title;
+//    [self.navigationController pushViewController:vc animated:YES];
+}
+
+
 
 
 @end
