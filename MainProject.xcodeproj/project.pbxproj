@@ -106,6 +106,7 @@
 		AAF57B1A1EA770F80000424B /* GuidePageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAF57B181EA770F80000424B /* GuidePageViewController.xib */; };
 		AAFA04EA1F13730E00720588 /* NetUserService.m in Sources */ = {isa = PBXBuildFile; fileRef = AAFA04E91F13730E00720588 /* NetUserService.m */; };
 		AAFA04EE1F1373B500720588 /* NetPayOrderModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AAFA04ED1F1373B500720588 /* NetPayOrderModel.m */; };
+		B51EC69F1FAA0AFC0056FD87 /* KpengScoreForJudge.m in Sources */ = {isa = PBXBuildFile; fileRef = B51EC69E1FAA0AFC0056FD87 /* KpengScoreForJudge.m */; };
 		B5C0B5961FA8C9B800F0A413 /* SimpleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5C0B5941FA8C9B800F0A413 /* SimpleViewController.xib */; };
 		B5C0B5971FA8C9B800F0A413 /* SimpleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C0B5951FA8C9B800F0A413 /* SimpleViewController.m */; };
 /* End PBXBuildFile section */
@@ -382,6 +383,8 @@
 		AAFA04EB1F13736B00720588 /* URLDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = URLDefine.h; sourceTree = "<group>"; };
 		AAFA04EC1F1373B500720588 /* NetPayOrderModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetPayOrderModel.h; sourceTree = "<group>"; };
 		AAFA04ED1F1373B500720588 /* NetPayOrderModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetPayOrderModel.m; sourceTree = "<group>"; };
+		B51EC69D1FAA0AFC0056FD87 /* KpengScoreForJudge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KpengScoreForJudge.h; sourceTree = "<group>"; };
+		B51EC69E1FAA0AFC0056FD87 /* KpengScoreForJudge.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KpengScoreForJudge.m; sourceTree = "<group>"; };
 		B5C0B5931FA8C9B800F0A413 /* SimpleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleViewController.h; sourceTree = "<group>"; };
 		B5C0B5941FA8C9B800F0A413 /* SimpleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleViewController.xib; sourceTree = "<group>"; };
 		B5C0B5951FA8C9B800F0A413 /* SimpleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleViewController.m; sourceTree = "<group>"; };
@@ -743,6 +746,8 @@
 				AA2811AD1EC403B00067A510 /* AppDelegate+MobShare.m */,
 				AAE27F671EC308B900B4EDAD /* AppDelegate+Notification.h */,
 				AAE27F681EC308B900B4EDAD /* AppDelegate+Notification.m */,
+				B51EC69D1FAA0AFC0056FD87 /* KpengScoreForJudge.h */,
+				B51EC69E1FAA0AFC0056FD87 /* KpengScoreForJudge.m */,
 				AA92FCA21EA71678009941C4 /* Main.storyboard */,
 				AA92FCA51EA71678009941C4 /* Assets.xcassets */,
 				AA92FCA71EA71678009941C4 /* LaunchScreen.storyboard */,
@@ -1173,6 +1178,7 @@
 				AA5CD7711F135175003CDF9B /* DataMD5.m in Sources */,
 				AA5CD7691F135175003CDF9B /* DataSigner.m in Sources */,
 				AA5CD76D1F135175003CDF9B /* openssl_wrapper.m in Sources */,
+				B51EC69F1FAA0AFC0056FD87 /* KpengScoreForJudge.m in Sources */,
 				AA9888F11ECBFA3300160703 /* ReceivingInformationViewController.m in Sources */,
 				AA969C841EA766C80021BEE5 /* BaseNavigationController.m in Sources */,
 				AAC7215C1ECAD7AA000FCA30 /* PublicAboutUsViewController.m in Sources */,
