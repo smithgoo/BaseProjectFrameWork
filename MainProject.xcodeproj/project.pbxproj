@@ -8,6 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		5D3F95073B0381C7E955BFA3 /* libPods-MainProject.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D1DC55CB4F4D23033B250397 /* libPods-MainProject.a */; };
+		AA145FD31FAAFACE003F5BE8 /* ScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA145FBC1FAAFACE003F5BE8 /* ScanViewController.m */; };
+		AA145FD41FAAFACE003F5BE8 /* 01.@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC01FAAFACE003F5BE8 /* 01.@3x.png */; };
+		AA145FD51FAAFACE003F5BE8 /* 3.@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC11FAAFACE003F5BE8 /* 3.@3x.png */; };
+		AA145FD61FAAFACE003F5BE8 /* 01.@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC21FAAFACE003F5BE8 /* 01.@2x.png */; };
+		AA145FD71FAAFACE003F5BE8 /* 3.@2x.png.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC31FAAFACE003F5BE8 /* 3.@2x.png.png */; };
+		AA145FD81FAAFACE003F5BE8 /* 02.@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC41FAAFACE003F5BE8 /* 02.@3x.png */; };
+		AA145FD91FAAFACE003F5BE8 /* 03.@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC51FAAFACE003F5BE8 /* 03.@2x.png */; };
+		AA145FDA1FAAFACE003F5BE8 /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC61FAAFACE003F5BE8 /* 01.png */; };
+		AA145FDB1FAAFACE003F5BE8 /* 03.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC71FAAFACE003F5BE8 /* 03.png */; };
+		AA145FDC1FAAFACE003F5BE8 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC81FAAFACE003F5BE8 /* 02.png */; };
+		AA145FDD1FAAFACE003F5BE8 /* 03.@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FC91FAAFACE003F5BE8 /* 03.@3x.png */; };
+		AA145FDE1FAAFACE003F5BE8 /* 02.@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCA1FAAFACE003F5BE8 /* 02.@2x.png */; };
+		AA145FDF1FAAFACE003F5BE8 /* 3-1.@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCB1FAAFACE003F5BE8 /* 3-1.@2x.png */; };
+		AA145FE01FAAFACE003F5BE8 /* 3-1.@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCC1FAAFACE003F5BE8 /* 3-1.@3x.png */; };
+		AA145FE11FAAFACE003F5BE8 /* 02-1.@3x.png.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCD1FAAFACE003F5BE8 /* 02-1.@3x.png.png */; };
+		AA145FE21FAAFACE003F5BE8 /* 02-1.@2x.png.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCE1FAAFACE003F5BE8 /* 02-1.@2x.png.png */; };
+		AA145FE31FAAFACE003F5BE8 /* 3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FCF1FAAFACE003F5BE8 /* 3-1.png */; };
+		AA145FE41FAAFACE003F5BE8 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FD01FAAFACE003F5BE8 /* 3.png */; };
+		AA145FE51FAAFACE003F5BE8 /* 02-1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA145FD11FAAFACE003F5BE8 /* 02-1.png */; };
+		AA145FE61FAAFACE003F5BE8 /* UIImage+QRCode.m in Sources */ = {isa = PBXBuildFile; fileRef = AA145FD21FAAFACE003F5BE8 /* UIImage+QRCode.m */; };
 		AA2811AE1EC403B00067A510 /* AppDelegate+MobShare.m in Sources */ = {isa = PBXBuildFile; fileRef = AA2811AD1EC403B00067A510 /* AppDelegate+MobShare.m */; };
 		AA384B471ECBFEF200FCD540 /* ReceiveInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AA384B451ECBFEF200FCD540 /* ReceiveInfoTableViewCell.m */; };
 		AA384B481ECBFEF200FCD540 /* ReceiveInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA384B461ECBFEF200FCD540 /* ReceiveInfoTableViewCell.xib */; };
@@ -132,6 +152,28 @@
 		0A2AD8E3789836B742790950 /* Pods-MainProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainProject/Pods-MainProject.release.xcconfig"; sourceTree = "<group>"; };
 		21B0B1B67296F2D1C4828C6F /* Pods-MainProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MainProject/Pods-MainProject.debug.xcconfig"; sourceTree = "<group>"; };
 		8DA1069540E0D66D9D8A9329 /* libPods-MainProjectUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MainProjectUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA145FBC1FAAFACE003F5BE8 /* ScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanViewController.m; sourceTree = "<group>"; };
+		AA145FBD1FAAFACE003F5BE8 /* UIImage+QRCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+QRCode.h"; sourceTree = "<group>"; };
+		AA145FBE1FAAFACE003F5BE8 /* ScanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanViewController.h; sourceTree = "<group>"; };
+		AA145FC01FAAFACE003F5BE8 /* 01.@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01.@3x.png"; sourceTree = "<group>"; };
+		AA145FC11FAAFACE003F5BE8 /* 3.@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3.@3x.png"; sourceTree = "<group>"; };
+		AA145FC21FAAFACE003F5BE8 /* 01.@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01.@2x.png"; sourceTree = "<group>"; };
+		AA145FC31FAAFACE003F5BE8 /* 3.@2x.png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3.@2x.png.png"; sourceTree = "<group>"; };
+		AA145FC41FAAFACE003F5BE8 /* 02.@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02.@3x.png"; sourceTree = "<group>"; };
+		AA145FC51FAAFACE003F5BE8 /* 03.@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03.@2x.png"; sourceTree = "<group>"; };
+		AA145FC61FAAFACE003F5BE8 /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01.png; sourceTree = "<group>"; };
+		AA145FC71FAAFACE003F5BE8 /* 03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03.png; sourceTree = "<group>"; };
+		AA145FC81FAAFACE003F5BE8 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02.png; sourceTree = "<group>"; };
+		AA145FC91FAAFACE003F5BE8 /* 03.@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03.@3x.png"; sourceTree = "<group>"; };
+		AA145FCA1FAAFACE003F5BE8 /* 02.@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02.@2x.png"; sourceTree = "<group>"; };
+		AA145FCB1FAAFACE003F5BE8 /* 3-1.@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3-1.@2x.png"; sourceTree = "<group>"; };
+		AA145FCC1FAAFACE003F5BE8 /* 3-1.@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3-1.@3x.png"; sourceTree = "<group>"; };
+		AA145FCD1FAAFACE003F5BE8 /* 02-1.@3x.png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-1.@3x.png.png"; sourceTree = "<group>"; };
+		AA145FCE1FAAFACE003F5BE8 /* 02-1.@2x.png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-1.@2x.png.png"; sourceTree = "<group>"; };
+		AA145FCF1FAAFACE003F5BE8 /* 3-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3-1.png"; sourceTree = "<group>"; };
+		AA145FD01FAAFACE003F5BE8 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		AA145FD11FAAFACE003F5BE8 /* 02-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-1.png"; sourceTree = "<group>"; };
+		AA145FD21FAAFACE003F5BE8 /* UIImage+QRCode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+QRCode.m"; sourceTree = "<group>"; };
 		AA2811AC1EC403B00067A510 /* AppDelegate+MobShare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AppDelegate+MobShare.h"; sourceTree = "<group>"; };
 		AA2811AD1EC403B00067A510 /* AppDelegate+MobShare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AppDelegate+MobShare.m"; sourceTree = "<group>"; };
 		AA384B441ECBFEF200FCD540 /* ReceiveInfoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReceiveInfoTableViewCell.h; sourceTree = "<group>"; };
@@ -464,6 +506,43 @@
 				AAFA04ED1F1373B500720588 /* NetPayOrderModel.m */,
 			);
 			name = NetworkService;
+			sourceTree = "<group>";
+		};
+		AA145FBB1FAAFACE003F5BE8 /* 二维码扫描 */ = {
+			isa = PBXGroup;
+			children = (
+				AA145FBC1FAAFACE003F5BE8 /* ScanViewController.m */,
+				AA145FBD1FAAFACE003F5BE8 /* UIImage+QRCode.h */,
+				AA145FBE1FAAFACE003F5BE8 /* ScanViewController.h */,
+				AA145FBF1FAAFACE003F5BE8 /* 配套图片 */,
+				AA145FD21FAAFACE003F5BE8 /* UIImage+QRCode.m */,
+			);
+			path = "二维码扫描";
+			sourceTree = "<group>";
+		};
+		AA145FBF1FAAFACE003F5BE8 /* 配套图片 */ = {
+			isa = PBXGroup;
+			children = (
+				AA145FC01FAAFACE003F5BE8 /* 01.@3x.png */,
+				AA145FC11FAAFACE003F5BE8 /* 3.@3x.png */,
+				AA145FC21FAAFACE003F5BE8 /* 01.@2x.png */,
+				AA145FC31FAAFACE003F5BE8 /* 3.@2x.png.png */,
+				AA145FC41FAAFACE003F5BE8 /* 02.@3x.png */,
+				AA145FC51FAAFACE003F5BE8 /* 03.@2x.png */,
+				AA145FC61FAAFACE003F5BE8 /* 01.png */,
+				AA145FC71FAAFACE003F5BE8 /* 03.png */,
+				AA145FC81FAAFACE003F5BE8 /* 02.png */,
+				AA145FC91FAAFACE003F5BE8 /* 03.@3x.png */,
+				AA145FCA1FAAFACE003F5BE8 /* 02.@2x.png */,
+				AA145FCB1FAAFACE003F5BE8 /* 3-1.@2x.png */,
+				AA145FCC1FAAFACE003F5BE8 /* 3-1.@3x.png */,
+				AA145FCD1FAAFACE003F5BE8 /* 02-1.@3x.png.png */,
+				AA145FCE1FAAFACE003F5BE8 /* 02-1.@2x.png.png */,
+				AA145FCF1FAAFACE003F5BE8 /* 3-1.png */,
+				AA145FD01FAAFACE003F5BE8 /* 3.png */,
+				AA145FD11FAAFACE003F5BE8 /* 02-1.png */,
+			);
+			path = "配套图片";
 			sourceTree = "<group>";
 		};
 		AA384B491ECC258C00FCD540 /* 订单列表 */ = {
@@ -912,6 +991,7 @@
 		AAE27F6C1EC3241E00B4EDAD /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				AA145FBB1FAAFACE003F5BE8 /* 二维码扫描 */,
 				AA8A62AD1ECD388400589E08 /* 购物车 */,
 				AA73A6FE1ECC50D600E96B1D /* 订单详情 */,
 				AA384B491ECC258C00FCD540 /* 订单列表 */,
@@ -1069,37 +1149,55 @@
 				AA73A7081ECC54F700E96B1D /* OrderDetailTableViewCell.xib in Resources */,
 				AAD6D9F51ECD754900CF1353 /* subtract.png in Resources */,
 				AAC721631ECAD7AA000FCA30 /* CircleOfFriendsViewController.xib in Resources */,
+				AA145FE51FAAFACE003F5BE8 /* 02-1.png in Resources */,
+				AA145FE41FAAFACE003F5BE8 /* 3.png in Resources */,
+				AA145FE31FAAFACE003F5BE8 /* 3-1.png in Resources */,
 				AA92FCA91EA71678009941C4 /* LaunchScreen.storyboard in Resources */,
 				AAC7215D1ECAD7AA000FCA30 /* PublicAboutUsViewController.xib in Resources */,
 				AAC721611ECAD7AA000FCA30 /* PayForSuccessAndFailureViewController.xib in Resources */,
 				AAD6D9FD1ECD98C000CF1353 /* RecommendCell.xib in Resources */,
+				AA145FDC1FAAFACE003F5BE8 /* 02.png in Resources */,
 				AA73A6FD1ECC411500E96B1D /* TheAllListTableViewCell.xib in Resources */,
 				AA92FCA61EA71678009941C4 /* Assets.xcassets in Resources */,
+				AA145FDE1FAAFACE003F5BE8 /* 02.@2x.png in Resources */,
 				AAD6D9F11ECD751900CF1353 /* add.png in Resources */,
 				AAC721681ECAD7AA000FCA30 /* MineViewController.xib in Resources */,
+				AA145FE21FAAFACE003F5BE8 /* 02-1.@2x.png.png in Resources */,
 				AAC721591ECAD7AA000FCA30 /* PersonalCenterViewController.xib in Resources */,
 				AAC721551ECAD7AA000FCA30 /* QuickLoginViewController.xib in Resources */,
+				AA145FE11FAAFACE003F5BE8 /* 02-1.@3x.png.png in Resources */,
 				AAC721571ECAD7AA000FCA30 /* RegisteredToLoginViewController.xib in Resources */,
 				AA384B4E1ECC25C900FCD540 /* TheAllListOfViewController.xib in Resources */,
 				AAC721661ECAD7AA000FCA30 /* HomePageViewController.xib in Resources */,
 				AAC7215F1ECAD7AA000FCA30 /* SeetingViewController.xib in Resources */,
+				AA145FD41FAAFACE003F5BE8 /* 01.@3x.png in Resources */,
 				AAC721831ECB080D000FCA30 /* EditInfoTableViewCell.xib in Resources */,
 				AA9888F21ECBFA3300160703 /* ReceivingInformationViewController.xib in Resources */,
+				AA145FD51FAAFACE003F5BE8 /* 3.@3x.png in Resources */,
 				AA5CD7731F135175003CDF9B /* read_me.txt in Resources */,
 				AAC7215B1ECAD7AA000FCA30 /* AboutUsTableViewCell.xib in Resources */,
 				AAF57B1A1EA770F80000424B /* GuidePageViewController.xib in Resources */,
+				AA145FD91FAAFACE003F5BE8 /* 03.@2x.png in Resources */,
 				B5C0B5961FA8C9B800F0A413 /* SimpleViewController.xib in Resources */,
 				AA384B481ECBFEF200FCD540 /* ReceiveInfoTableViewCell.xib in Resources */,
 				AA969C871EA766C80021BEE5 /* BaseWebViewController.xib in Resources */,
+				AA145FDB1FAAFACE003F5BE8 /* 03.png in Resources */,
+				AA145FD61FAAFACE003F5BE8 /* 01.@2x.png in Resources */,
 				AAD6D9EC1ECD47E800CF1353 /* ShoppingCarCell.xib in Resources */,
 				AA8A62B21ECD38B800589E08 /* TheShoppingCartViewController.xib in Resources */,
 				AA73A6F81ECC367500E96B1D /* TheAllListCollectionViewCell.xib in Resources */,
+				AA145FE01FAAFACE003F5BE8 /* 3-1.@3x.png in Resources */,
 				AA5CD7621F135175003CDF9B /* AlipaySDK.bundle in Resources */,
 				AA73A7031ECC50F400E96B1D /* OrderDetailViewController.xib in Resources */,
 				AAD6DA021ECD9C5A00CF1353 /* ShoppingCarRecommendCell.xib in Resources */,
 				AA92FCA41EA71678009941C4 /* Main.storyboard in Resources */,
 				AAC7216A1ECAD7AA000FCA30 /* NormalLoginViewController.xib in Resources */,
+				AA145FDA1FAAFACE003F5BE8 /* 01.png in Resources */,
+				AA145FD71FAAFACE003F5BE8 /* 3.@2x.png.png in Resources */,
+				AA145FDD1FAAFACE003F5BE8 /* 03.@3x.png in Resources */,
 				AAC7217E1ECB039E000FCA30 /* EditInfomationViewController.xib in Resources */,
+				AA145FD81FAAFACE003F5BE8 /* 02.@3x.png in Resources */,
+				AA145FDF1FAAFACE003F5BE8 /* 3-1.@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1186,6 +1284,7 @@
 				B5C0B5971FA8C9B800F0A413 /* SimpleViewController.m in Sources */,
 				AA73A6FC1ECC411500E96B1D /* TheAllListTableViewCell.m in Sources */,
 				AAFA04EA1F13730E00720588 /* NetUserService.m in Sources */,
+				AA145FE61FAAFACE003F5BE8 /* UIImage+QRCode.m in Sources */,
 				AAC721821ECB080D000FCA30 /* EditInfoTableViewCell.m in Sources */,
 				AAC721641ECAD7AA000FCA30 /* FirstTableViewCell.m in Sources */,
 				AA5CD76C1F135175003CDF9B /* NSDataEx.m in Sources */,
@@ -1203,6 +1302,7 @@
 				AA2811AE1EC403B00067A510 /* AppDelegate+MobShare.m in Sources */,
 				AAD6DA011ECD9C5A00CF1353 /* ShoppingCarRecommendCell.m in Sources */,
 				AA5CD76E1F135175003CDF9B /* RSADataSigner.m in Sources */,
+				AA145FD31FAAFACE003F5BE8 /* ScanViewController.m in Sources */,
 				AA92FCA11EA71678009941C4 /* ViewController.m in Sources */,
 				AAC7215E1ECAD7AA000FCA30 /* SeetingViewController.m in Sources */,
 				AAC721601ECAD7AA000FCA30 /* PayForSuccessAndFailureViewController.m in Sources */,

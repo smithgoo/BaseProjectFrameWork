@@ -63,6 +63,8 @@
 //    [self setupUI:_progress backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
 }
 
+
+
 - (void) drawRect:(CGRect)rect{
     CGFloat centerX = CGRectGetMidX(rect);
     CGFloat centerY = CGRectGetMidY(rect);
