@@ -25,6 +25,10 @@
     judge.backgroundColor =[UIColor redColor];
     judge.needMoveTouch =YES;
     [self.view addSubview:judge];
+    judge.fillColor =[UIColor blueColor];
+    judge.scoreRefersh = ^(CGFloat rate) {
+        NSLog(@"%f---✨数",rate);
+    };
     
 }
 

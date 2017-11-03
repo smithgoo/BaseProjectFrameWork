@@ -33,6 +33,7 @@
 		AA384B481ECBFEF200FCD540 /* ReceiveInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA384B461ECBFEF200FCD540 /* ReceiveInfoTableViewCell.xib */; };
 		AA384B4D1ECC25C900FCD540 /* TheAllListOfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA384B4B1ECC25C900FCD540 /* TheAllListOfViewController.m */; };
 		AA384B4E1ECC25C900FCD540 /* TheAllListOfViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA384B4C1ECC25C900FCD540 /* TheAllListOfViewController.xib */; };
+		AA5A53191FAC649A0061E5C0 /* UIView+size.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5A53181FAC64990061E5C0 /* UIView+size.m */; };
 		AA5CD6EB1F135162003CDF9B /* BaijiAliPay.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CD6E71F135162003CDF9B /* BaijiAliPay.m */; };
 		AA5CD6EC1F135162003CDF9B /* BaijiWeixinPay.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CD6E91F135162003CDF9B /* BaijiWeixinPay.m */; };
 		AA5CD7621F135175003CDF9B /* AlipaySDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AA5CD6EE1F135175003CDF9B /* AlipaySDK.bundle */; };
@@ -188,6 +189,8 @@
 		AA4FE8621EC465FD0096346C /* AlipaySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AlipaySDK.framework; path = AliPay/AliPay/alipy/AlipaySDK.framework; sourceTree = "<group>"; };
 		AA54A0231EC19754003DE503 /* SimpleVC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SimpleVC.framework; path = "SimpleVC/build/Debug-iphoneos/SimpleVC.framework"; sourceTree = "<group>"; };
 		AA54A03A1EC199AD003DE503 /* libSimpleVIewController.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSimpleVIewController.a; path = "SimpleVIewController/build/Debug-iphoneos/libSimpleVIewController.a"; sourceTree = "<group>"; };
+		AA5A53171FAC64980061E5C0 /* UIView+size.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+size.h"; sourceTree = "<group>"; };
+		AA5A53181FAC64990061E5C0 /* UIView+size.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+size.m"; sourceTree = "<group>"; };
 		AA5CD6E61F135162003CDF9B /* BaijiAliPay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaijiAliPay.h; sourceTree = "<group>"; };
 		AA5CD6E71F135162003CDF9B /* BaijiAliPay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaijiAliPay.m; sourceTree = "<group>"; };
 		AA5CD6E81F135162003CDF9B /* BaijiWeixinPay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaijiWeixinPay.h; sourceTree = "<group>"; };
@@ -827,6 +830,8 @@
 				AAE27F681EC308B900B4EDAD /* AppDelegate+Notification.m */,
 				B51EC69D1FAA0AFC0056FD87 /* KpengScoreForJudge.h */,
 				B51EC69E1FAA0AFC0056FD87 /* KpengScoreForJudge.m */,
+				AA5A53171FAC64980061E5C0 /* UIView+size.h */,
+				AA5A53181FAC64990061E5C0 /* UIView+size.m */,
 				AA92FCA21EA71678009941C4 /* Main.storyboard */,
 				AA92FCA51EA71678009941C4 /* Assets.xcassets */,
 				AA92FCA71EA71678009941C4 /* LaunchScreen.storyboard */,
@@ -1289,6 +1294,7 @@
 				AAC721641ECAD7AA000FCA30 /* FirstTableViewCell.m in Sources */,
 				AA5CD76C1F135175003CDF9B /* NSDataEx.m in Sources */,
 				AA5CD76B1F135175003CDF9B /* MD5DataSigner.m in Sources */,
+				AA5A53191FAC649A0061E5C0 /* UIView+size.m in Sources */,
 				AA5CD6EC1F135162003CDF9B /* BaijiWeixinPay.m in Sources */,
 				AA5CD7741F135175003CDF9B /* XMLDictionary.m in Sources */,
 				AA5CD7681F135175003CDF9B /* base64.m in Sources */,

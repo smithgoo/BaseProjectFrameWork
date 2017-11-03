@@ -7,6 +7,7 @@
 //
 
 #import "KpengScoreForJudge.h"
+#import "UIView+size.h"
 @interface KpengScoreView ()
 /**
  角度幅度
@@ -33,35 +34,33 @@
     self.radius = MIN(x, y);
     _backColor   =km_rgb_hex(0xeaeaea);
     _strokeColor = [UIColor clearColor];
-    _fillColor   =km_rgb_hex(0xff872e);
-//    [self setupUI:0 backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
-}
+ }
 
 -(void)setProgress:(CGFloat)progress {
-     if (progress < 0) {
+    if (progress < 0) {
         _progress = 0;
     }else if(progress > 1){
         _progress = 1;
     }else{
         _progress = progress;
     }
-//      [self setupUI:_progress backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
-}
+    [self setNeedsDisplay];
+ }
 
 -(void)setBackColor:(UIColor *)backColor {
     _backColor =backColor;
-//    [self setupUI:_progress backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
-}
+    [self setNeedsDisplay];
+ }
 
 -(void)setFillColor:(UIColor *)fillColor {
     _fillColor =fillColor;
-//    [self setupUI:_progress backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
-}
+    [self setNeedsDisplay];
+ }
 
 -(void)setStrokeColor:(UIColor *)strokeColor {
     _strokeColor =strokeColor;
-//    [self setupUI:_progress backColor:_backColor fillColor:_fillColor strokeColor:_strokeColor rectFrame:_rectFrame];
-}
+    [self setNeedsDisplay];
+ }
 
 
 
@@ -159,8 +158,7 @@
         CGFloat x = self.leftMargin + i *(width + self.midMargin);
         CGFloat y = 0;
         KpengScoreView *view = [[KpengScoreView alloc]initWithFrame:CGRectMake(x, y, width, width)];
-        CGPoint point =view.center;
-        point.y =self.center.y;
+        view.centerY = CGRectGetHeight(self.frame)/2;
         [self addSubview:view];
         [self.starViews addObject:view];
     }
@@ -172,6 +170,7 @@
 - (void) refresh{
     for (int i = 0; i < self.starViews.count; i++) {
         KpengScoreView *view = self.starViews[i];
+        view.fillColor =_fillColor;
         if (self.rate >= i+1) {
             view.progress = 1;
         }else if(self.rate > i){
@@ -190,16 +189,16 @@
 
 #pragma makr - touches
 - (void) touchesMoved:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
-//    if (self.needMoveTouch) {
-        CGPoint point = [[touches anyObject]locationInView:self];
-        [self configraRateWithPoint:point];
-//    }
+        if (self.needMoveTouch) {
+    CGPoint point = [[touches anyObject]locationInView:self];
+    [self configraRateWithPoint:point];
+        }
 }
 - (void) touchesEnded:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
-//    if (self.needMoveTouch) {
-        CGPoint point = [[touches anyObject]locationInView:self];
-        [self configraRateWithPoint:point];
-//    }
+        if (self.needMoveTouch) {
+    CGPoint point = [[touches anyObject]locationInView:self];
+    [self configraRateWithPoint:point];
+        }
     
 }
 
@@ -208,12 +207,14 @@
         KpengScoreView *view = self.starViews[i];
         if (CGRectContainsPoint(view.frame, point)) {
             CGFloat distance = (point.x - self.leftMargin - i*CGRectGetWidth(view.frame) - i *self.midMargin)/CGRectGetWidth(view.frame);
-            if (distance <= 0.5) {
-                //                distance = 0.5;
-                distance = 1.;
-            }else{
+            if (distance < 0.5 ) {
+                distance = 0.0;
+            }else if(distance<1){
+                distance =0.5;
+            } else{
                 distance = 1.;
             }
+         
             CGFloat rate = i+distance ;
             if (rate > self.maxCount - 0.1) {
                 self.rate = self.maxCount;

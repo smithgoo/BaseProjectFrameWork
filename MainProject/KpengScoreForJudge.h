@@ -44,7 +44,10 @@
 /// 默认 = 5  可以设更多 和更少
 @property (nonatomic,assign) IBInspectable NSInteger maxCount;
 @property (nonatomic,assign) IBInspectable BOOL needMoveTouch;//可以滑动，点击是userInteractionEnabled属性
-
 @property (nonatomic,copy)  void(^scoreRefersh)(CGFloat rate);
 
+/**
+ 填充颜色
+ */
+@property (nonatomic,strong) UIColor *fillColor;
 @end
