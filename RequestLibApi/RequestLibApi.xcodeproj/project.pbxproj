@@ -16,6 +16,7 @@
 		AA3833191F2D7F4300F21F88 /* UIAlertView+Block.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3833141F2D7F4300F21F88 /* UIAlertView+Block.m */; };
 		AA38331A1F2D7F4300F21F88 /* UIImageView+PlayGIF.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3833161F2D7F4300F21F88 /* UIImageView+PlayGIF.m */; };
 		AA38331B1F2D7F4300F21F88 /* YFGIFImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3833181F2D7F4300F21F88 /* YFGIFImageView.m */; };
+		AA47372C2079B97100F83AC4 /* UITextField+deleteBackward.m in Sources */ = {isa = PBXBuildFile; fileRef = AA47372A2079B97100F83AC4 /* UITextField+deleteBackward.m */; };
 		AA5DA02A1F355F03000FD20A /* UIButton+HitMutable.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5DA0291F355F03000FD20A /* UIButton+HitMutable.m */; };
 		AA6AFD671EA7400300A56C7B /* RequestLibApi.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6AFD661EA7400300A56C7B /* RequestLibApi.m */; };
 		AA6AFD681EA7400300A56C7B /* RequestLibApi.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = AA6AFD651EA7400300A56C7B /* RequestLibApi.h */; };
@@ -77,6 +78,8 @@
 		AA3833161F2D7F4300F21F88 /* UIImageView+PlayGIF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+PlayGIF.m"; sourceTree = "<group>"; };
 		AA3833171F2D7F4300F21F88 /* YFGIFImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFGIFImageView.h; sourceTree = "<group>"; };
 		AA3833181F2D7F4300F21F88 /* YFGIFImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFGIFImageView.m; sourceTree = "<group>"; };
+		AA47372A2079B97100F83AC4 /* UITextField+deleteBackward.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+deleteBackward.m"; sourceTree = "<group>"; };
+		AA47372B2079B97100F83AC4 /* UITextField+deleteBackward.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+deleteBackward.h"; sourceTree = "<group>"; };
 		AA5DA0281F355F03000FD20A /* UIButton+HitMutable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+HitMutable.h"; sourceTree = "<group>"; };
 		AA5DA0291F355F03000FD20A /* UIButton+HitMutable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+HitMutable.m"; sourceTree = "<group>"; };
 		AA6AFD621EA7400300A56C7B /* libRequestLibApi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRequestLibApi.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -145,6 +148,8 @@
 		AA3833121F2D7ED600F21F88 /* MyUIkit */ = {
 			isa = PBXGroup;
 			children = (
+				AA47372B2079B97100F83AC4 /* UITextField+deleteBackward.h */,
+				AA47372A2079B97100F83AC4 /* UITextField+deleteBackward.m */,
 				AA10D0461F3849D7008A4A52 /* UITextField+custom.h */,
 				AA10D0471F3849D7008A4A52 /* UITextField+custom.m */,
 				AA3833131F2D7F4300F21F88 /* UIAlertView+Block.h */,
@@ -350,6 +355,7 @@
 				AA10D03E1F3840CB008A4A52 /* CopyiPhoneFadeView.m in Sources */,
 				AAF57B141EA76FCD0000424B /* CCLocationManager.m in Sources */,
 				AA38331A1F2D7F4300F21F88 /* UIImageView+PlayGIF.m in Sources */,
+				AA47372C2079B97100F83AC4 /* UITextField+deleteBackward.m in Sources */,
 				AAF57B151EA76FCD0000424B /* CLLocation+YCLocation.m in Sources */,
 				AA6AFD721EA7418300A56C7B /* ConfigInfo.m in Sources */,
 				AA6AFDAE1EA75A2000A56C7B /* UIView+Extension.m in Sources */,

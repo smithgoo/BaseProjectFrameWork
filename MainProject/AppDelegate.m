@@ -40,7 +40,7 @@
     //    } else {
     //
     ////    UINavigationController *nav =[[UINavigationController alloc] initWithRootViewController:[SimpleViewController new]];
-    self.window.rootViewController =[SimpleViewController new];
+    self.window.rootViewController =[MainTabBarController new];
     //    }
     
     return YES;
