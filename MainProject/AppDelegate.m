@@ -17,7 +17,7 @@
 #import <JPUSHService.h>
 #import "WXApi.h"
 #import <AlipaySDK/AlipaySDK.h>
-#import "SimpleViewController.h"
+
 @interface AppDelegate ()
 
 @end

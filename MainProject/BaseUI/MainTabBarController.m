@@ -8,11 +8,11 @@
 
 #import "MainTabBarController.h"
 #import "BaseNavigationController.h"
-#import "HomePageViewController.h"
-#import "CircleOfFriendsViewController.h"
+#import "VideoProjectViewController.h"
+#import "ProfessionalProjectViewController.h"
+#import "ActorViewController.h"
 #import "MineViewController.h"
-#import "QuickLoginViewController.h"
-
+#import "VideoListViewController.h"
 @interface MainTabBarController ()<UITabBarControllerDelegate>
 
  
@@ -31,22 +31,26 @@
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
     //示例代码
-    HomePageViewController *homePage =[HomePageViewController new];
+    VideoProjectViewController *homePage =[VideoProjectViewController new];
     [self createTabBarItem:homePage title:@"首页" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
     BaseNavigationController *indexNav = [[BaseNavigationController alloc ]initWithRootViewController:homePage];
     [self addChildViewController:indexNav];
     
     
-    CircleOfFriendsViewController *circleOfFriends =[[CircleOfFriendsViewController alloc] initWithNibName:@"CircleOfFriendsViewController" bundle:nil];
-    [self createTabBarItem:circleOfFriends title:@"朋友圈" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
+    ProfessionalProjectViewController *circleOfFriends =[ProfessionalProjectViewController new];
+    [self createTabBarItem:circleOfFriends title:@"专题" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
     BaseNavigationController *circleNav = [[BaseNavigationController alloc ]initWithRootViewController:circleOfFriends];
     [self addChildViewController:circleNav];
     
-    QuickLoginViewController *mine =[[QuickLoginViewController alloc] initWithNibName:@"QuickLoginViewController" bundle:nil];
-    [self createTabBarItem:mine title:@"我的" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
-    mine.isNeedThirdLogin =YES;
+    ActorViewController *mine =[ActorViewController new];
+    [self createTabBarItem:mine title:@"演员" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
     BaseNavigationController *mineNav = [[BaseNavigationController alloc ]initWithRootViewController:mine];
     [self addChildViewController:mineNav];
+    
+    MineViewController *mineView =[MineViewController new];
+    [self createTabBarItem:mineView title:@"我的" image:@"huayihuaweixuanzhong" imageSelected:@"huayihuaxuanzhong"];
+    BaseNavigationController *mineViewNav = [[BaseNavigationController alloc ]initWithRootViewController:mineView];
+    [self addChildViewController:mineViewNav ];
     
     
     
